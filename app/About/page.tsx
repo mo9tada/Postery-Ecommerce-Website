@@ -13,7 +13,7 @@ export default function AboutPage() {
             name: "Moktada Zaidi",
             role: "Founder & CEO",
             image: "/placeholder.svg?height=300&width=300",
-            description: "WebMaster And Ensuring The Production Of The Most Premuim Products",
+            description: "WebMaster And Ensuring The Production Of The Most Premium Products",
         },
         {
             name: "Anas Ben Rhouma",
@@ -42,7 +42,7 @@ export default function AboutPage() {
             location: "Los Angeles, CA",
             rating: 5,
             comment:
-                "I've been collecting for 15 years, and CarFigures has the best selection and authenticity I've ever seen.",
+                "I've been collecting for 15 years, and Postery has the best selection and authenticity I've ever seen.",
         },
         {
             name: "Robert Kim",
@@ -73,7 +73,7 @@ export default function AboutPage() {
                             About Postery
                         </h1>
                         <p className="text-xl md:text-2xl text-gray-700 leading-relaxed max-w-3xl mx-auto">
-                            Passionate Production Of The Most Premuim Car Posters In Tunisia
+                            Passionate Production Of The Most Premium Car Posters In Tunisia
                         </p>
                     </div>
                 </div>
@@ -103,7 +103,7 @@ export default function AboutPage() {
                             <div className="premium-card p-8 rounded-2xl">
                                 <Image
                                     src="/postery.svg?height=400&width=600"
-                                    alt="CarFigures workshop"
+                                    alt="Postery workshop"
                                     width={600}
                                     height={400}
                                     className="rounded-xl"
@@ -210,7 +210,7 @@ export default function AboutPage() {
                             Ready to Start Your Collection?
                         </h2>
                         <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-                            Join thousands of collectors who trust Postery for their premium die-cast models. Whether you're just
+                            Join thousands of collectors who trust Postery for their premium car posters. Whether you're just
                             starting or expanding your collection, we're here to help.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-6 justify-center mb-12">

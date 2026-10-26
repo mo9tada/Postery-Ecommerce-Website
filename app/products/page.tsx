@@ -38,7 +38,7 @@ export default function ProductsPage() {
             id: "1",
             name: "Ferrari F40 1:18 Scale",
             description:
-              "Detailed die-cast model of the iconic Ferrari F40 supercar with opening doors, hood, and detailed engine bay",
+              "Detailed poster of the iconic Ferrari F40 supercar with opening doors, hood, and detailed engine bay",
             price: 89.99,
             image_url: "/placeholder.svg?height=300&width=300",
             category: "Sports Cars",

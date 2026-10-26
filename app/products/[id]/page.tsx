@@ -34,7 +34,7 @@ export default function ProductDetailPage() {
           id: params.id as string,
           name: "Ferrari F40 1:18 Scale Premium Edition",
           description:
-            "This exceptional 1:18 scale Ferrari F40 model represents the pinnacle of die-cast craftsmanship. Every detail has been meticulously recreated from the original blueprints, featuring opening doors, hood, and trunk, detailed engine bay, authentic interior with working steering wheel, and premium paint finish that captures the iconic Ferrari red.",
+            "This exceptional 1:18 scale Ferrari F40 model captures every curve of the legend in a gallery-quality print. Every detail has been meticulously recreated from the original blueprints, featuring opening doors, hood, and trunk, detailed engine bay, authentic interior with working steering wheel, and premium paint finish that captures the iconic Ferrari red.",
           price: 89.99,
           image_url: "/placeholder.svg?height=600&width=600",
           category: "Sports Cars",

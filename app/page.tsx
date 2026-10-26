@@ -30,7 +30,7 @@ export default function HomePage() {
           {
             id: "1",
             name: "Ferrari F40 1:18 Scale",
-            description: "Detailed die-cast model of the iconic Ferrari F40 supercar",
+            description: "Detailed poster of the iconic Ferrari F40 supercar",
             price: 89.99,
             image_url: "/placeholder.svg?height=300&width=300",
             category: "Sports Cars",
@@ -128,7 +128,7 @@ export default function HomePage() {
               Premium Car Figures Collection
             </h1>
             <p className="text-xl md:text-2xl mb-12 text-gray-700 leading-relaxed max-w-3xl mx-auto">
-              Discover the world's finest collection of die-cast car models. From legendary classics to modern
+              Discover the world's finest collection of car posters. From legendary classics to modern
               supercars, each piece is crafted with exceptional detail and authenticity.
             </p>
             <div className="flex flex-col sm:flex-row gap-6 justify-center">
@@ -154,7 +154,7 @@ export default function HomePage() {
         <div className="container mx-auto px-6">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-4 bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent">
-              Why Choose CarFigures
+              Why Choose Postery
             </h2>
             <p className="text-gray-600 text-lg max-w-2xl mx-auto">
               Experience the difference with our premium service and authentic collectibles
